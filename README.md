@@ -1,2 +1,3 @@
 # Demo1
-This is my 1st git repo
+This is my 1st git repository
+Author - Shreya
